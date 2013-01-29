@@ -1,0 +1,1 @@
+Cufon.replace('h1.title a, .title h3', { fontFamily: 'HamburgerHeaven' });
